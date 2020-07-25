@@ -6,4 +6,4 @@ execute command :
 
 #### python bingo.py number 
 
-where number can be from 3 to 20 (default is 5)
+where number can be from 3 to 20 (default is 5 if not provided)
